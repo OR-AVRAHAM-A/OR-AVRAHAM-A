@@ -1,6 +1,6 @@
 ## Hi, I'm Or Avraham 👋
 
-**Junior SOC Analyst | Blue Team | Network Security**
+**Cybersecurity Student | CCNA | Aspiring SOC Analyst (Blue Team)**
 
 I'm a career changer from Israel. I hold the CCNA, and I'm training in cybersecurity: Linux, Active Directory, malware analysis, penetration testing and Fortinet.
 
