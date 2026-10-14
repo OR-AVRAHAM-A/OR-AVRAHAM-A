@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Or Avraham 👋
 
-<!--
-**OR-AVRAHAM-A/OR-AVRAHAM-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior SOC Analyst | Blue Team | Network Security**
 
-Here are some ideas to get you started:
+I'm a career changer from Israel. I hold the CCNA, and I'm training in cybersecurity: Linux, Active Directory, malware analysis, penetration testing and Fortinet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current project
+
+**[Home SOC Lab](https://github.com/OR-AVRAHAM-A/home-soc-lab)**: a virtualized enterprise network (Cisco, pfSense, Active Directory, Wazuh). I use it to practice attacks and then detect and investigate them, end to end.
+
+### 🛠️ Skills
+
+- **Networking:** CCNA, VLANs, 802.1Q, Inter-VLAN routing, DHCP relay, Layer 2 hardening
+- **Systems:** Windows Server / Active Directory, DNS, DHCP, Linux
+- **Security:** SIEM (Wazuh), MITRE ATT&CK, Cyber Kill Chain, log analysis
+- **Labs:** EVE-NG, VMware, Hack The Box, Cympire
+
+### 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/or-avraham-990508390
+
